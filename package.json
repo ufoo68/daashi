@@ -1,0 +1,19 @@
+{
+  "name": "dagashi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ufoo68/dagashi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ufoo68/dagashi/issues"
+  },
+  "homepage": "https://github.com/ufoo68/dagashi#readme",
+  "description": ""
+}
